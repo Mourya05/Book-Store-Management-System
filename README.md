@@ -51,4 +51,4 @@ A Java Swing application for managing a book store's inventory.
    - Delete Book: Remove selected book from inventory
    - Clear Fields: Reset input fields
 
-<!-- copilot-tick 2026-01-17T04:54:09.897Z -->
+
